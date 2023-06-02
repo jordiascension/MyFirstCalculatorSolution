@@ -1,0 +1,75 @@
+16/02/2023
+1.Crear Mongodb script
+2.Executar script en local
+3.Executar script en remot
+4.Crear Repositori de github
+5.Crear un projecte a Github
+6.Instal·lar Git Bash
+7.Instal·lar Sourcetree (Client Visual de git)
+8.Crear un repositori local de git
+9.Pujar el codi a Github
+10.Treballar amb Postman
+
+Google Drive Url
+https://drive.google.com/drive/folders/1gmJ3quEh1wxsLPPSDAyP4anF4FBpSr6w
+
+21/02/2023
+1.Testing d'una api amb Postman
+2.Api de javascript de Postman
+3.Postman environment variables (per fer testing de diferents entorns)
+4.Instal·lar Node.js i Newman
+5.Execución de postman via línia de comandaments.
+6.Pujar el codi al git mitjançant pull request i vinculació de codi amb "issue"
+7.Diferents api's de MongoDb
+https://www.mongodb.com/docs/atlas/api/
+8.Activar MongoDb Data Api
+9.Crear Postman
+
+
+23/02/2023
+1.Generar un report dels tests
+2.Repàs de Tema 3 "Conceptos básicos de MongoDB"
+3.Tema 4 "Operaciones CRUD en MONGODB"
+4.MongoDb Data Api amb totes les accions disponibles per http
+
+
+28/02/2023 i 02/03/2023
+Github Repository
+https://github.com/jordiascension/mongodb-course-gencat
+
+Github pages
+-Readme
+https://jordiascension.github.io/mongodb-course-gencat/
+-Student Postman Report
+https://jordiascension.github.io/mongodb-course-gencat/newman/NttData-Student-Gencat-2023-02-21-19-06-44-074-0.html
+
+
+1.Exercici de Mongodb amb Mongosh i postman amb l'ajuda de la intel·ligència artificial ChatGpt
+2.Activar Github pages
+https://jordiascension.github.io/mongodb-course-gencat/newman/NttData-Student-Gencat-2023-02-21-19-06-44-074-0.html
+3.Python & MongoDb
+https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/mongodb-python/
+
+
+
+07/03/2023
+1.Treballar amb variables d'entorn amb python
+2.Activar Github pages
+3.Estratègies de modelat
+https://blog.findemor.es/2015/06/aprender-a-usar-mongodb-guia-5/
+https://adrianalonso.es/desarrollo-web/estrategias-de-modelado-en-mongodb/
+https://dgsei.edomex.gob.mx/sites/dgsei.edomex.gob.mx/files/files/MongoDB.pdf
+https://dev.to/damcosset/mongodb-normalization-vs-denormalization
+4.MongoDB Schemas
+https://www.mongodb.com/docs/manual/core/schema-validation/specify-json-schema/
+https://www.digitalocean.com/community/tutorials/how-to-use-schema-validation-in-mongodb
+
+
+
+5.Modelado y transacciones multi-documento
+https://www.mongodb.com/docs/v5.3/core/data-modeling-introduction/
+6.MongoDB Agregation Pipeline
+https://platzi.com/tutoriales/1187-mongodb-redis-2017/2951-introduccion-al-pipeline-de-agregacion-de-mongodb/
+7.Mongodb Index
+https://www.genbeta.com/desarrollo/mongodb-creacion-y-utilizacion-de-indices
+
