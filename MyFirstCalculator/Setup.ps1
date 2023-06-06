@@ -1,1 +1,1 @@
-Invoke-WebRequest -Uri "https://drive.google.com/uc?export=download&id=15T6f3l8PXJn-gtx_UnBFDz7geDi9a5DY" -OutFile "C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\MyFirstCalculatorSolution\MyFirstCalculator\Curs.txt"
+Invoke-WebRequest -Uri "https://drive.google.com/uc?export=download&id=15T6f3l8PXJn-gtx_UnBFDz7geDi9a5DY" -OutFile "$pwd\Curs.txt"

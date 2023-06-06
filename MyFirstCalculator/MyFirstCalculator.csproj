@@ -89,6 +89,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PreBuildEvent>powershell.exe -file "C:\Users\jordi\Desktop\Cursos\CursosSinensia\CursosNet\Curso Introduccion .Net\MyFirstCalculatorSolution\MyFirstCalculator\Setup.ps1"</PreBuildEvent>
+    <PreBuildEvent>powershell.exe -file "$(ProjectDir)\Setup.ps1"</PreBuildEvent>
   </PropertyGroup>
 </Project>
